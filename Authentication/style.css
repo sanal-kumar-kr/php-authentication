@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to right,rgba(0, 0, 255, 0.548),white);
+}
+
+.form-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    display: block;
+    margin-top:2rem;
+}
+h1{
+    text-align: center;
+}
+button{
+    margin-top: 1rem;
+}
+a{
+    text-align: center;
+}
